@@ -1,1 +1,2 @@
 # AutomationCatchall
+Some scripts for setting up automation for various environment.  I love Mac after working with it for 10+ years, 20+ years of windows stuff, and then returning to Mac and feeling so at home. But Windows still has a dominance, so I'm sure I'll be back and forth.  Plus there is always the beauty of Linux/unix and all the internet is made of.  That has to be some of the appeal of why so many of all the cool devs use Mac, its unix at its bones, but with the continued simple Mac interface that has persisted for 34 year. OMG, I'm really that old.
